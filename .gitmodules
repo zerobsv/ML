@@ -1,0 +1,6 @@
+[submodule "linear_regression"]
+	path = linear_regression
+	url = https://github.com/zerobsv/linear_regression
+[submodule "logistic_regression"]
+	path = logistic_regression
+	url = https://github.com/zerobsv/logistic_regression
